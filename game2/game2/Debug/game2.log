@@ -1,0 +1,8 @@
+﻿  game2.cpp
+C:\Users\raymo\source\repos\game2\game2\game2.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\raymo\source\repos\game2\game2\game2.cpp(9,6): warning C4101: 'a': unreferenced local variable
+C:\Users\raymo\source\repos\game2\game2\game2.cpp(166,16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\raymo\source\repos\game2\game2\game2.cpp(197,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\raymo\source\repos\game2\game2\game2.cpp(205,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\raymo\source\repos\game2\game2\game2.cpp(246,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  game2.vcxproj -> C:\Users\raymo\source\repos\game2\Debug\game2.exe
